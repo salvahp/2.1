@@ -198,7 +198,7 @@
     </div>
     <!-- /.banner -->
 
-    <?php include "startbootstrap-landing-page-1.0.4/footer.php"; ?>
+	<?php include "startbootstrap-landing-page-1.0.4/footer.php";?>
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
