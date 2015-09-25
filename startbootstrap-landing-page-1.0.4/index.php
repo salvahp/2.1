@@ -43,7 +43,7 @@
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
-    	
+    	<div id="video" class="player" data-property="{videoURL:'ZewSU6Kg1go',containment:'#intro-header', showControls:false, autoPlay:true, loop:true, mute:true, startAt:58, opacity:1, optimizeDisplay: true, addRaster:false, quality:'default'}">Henter video...</div>
         <div class="container">
 
             <div class="row">
@@ -189,8 +189,9 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <!-- video  -->
-    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
-
+    <script type="text/javascript" src="js/jquery.mb.YTPlayer.src.js"></script>
+	<script src="js/script.js"></script>
+    
 </body>
 
 </html>
