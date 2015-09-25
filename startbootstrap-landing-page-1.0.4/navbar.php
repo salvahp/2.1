@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#">Langt logo</a>
+                <a class="navbar-brand topnav" href="index.php">Langt logo</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
            
