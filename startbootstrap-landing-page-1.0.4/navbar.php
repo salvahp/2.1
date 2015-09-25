@@ -19,16 +19,16 @@
                 
                 <ul class="nav navbar-nav navbar-right">
                   <li> 
-                  		<a href="#about">Bliv medlem </a>
+                  		<a href="blivmedlem.php">Bliv medlem </a>
                   </li>
                   <li>
-                        <a href="#services">Events</a>
+                        <a href="events.php">Events</a>
                     </li>
                     <li>
-                        <a href="#contact">Medlemmer</a>
+                        <a href="medlemmer.php">Medlemmer</a>
                     </li>
                     <li>
-                        <a href="#contact">Om Aarhus Jazzklub</a>
+                        <a href="omafk.php">Om Aarhus Jazzklub</a>
                     </li>
                 </ul>
             </div>
