@@ -72,7 +72,7 @@
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
-    
+    	
         <div class="container">
 
             <div class="row">
@@ -110,8 +110,8 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Om Aarhus Jazzklub<br></h2>
-                    <p class="lead">Aarhus Jazzklub er en klub for alle der elsker jazz musik. </p>
+                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
+                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/ipad.png" alt="">
@@ -198,13 +198,16 @@
     </div>
     <!-- /.banner -->
 
-	<?php include "startbootstrap-landing-page-1.0.4/footer.php";?>
-    
+    <!-- Footer -->
+<?php include "startbootstrap-landing-page-1.0.4/footer.php";?>
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    <!-- video  -->
+    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
 
 </body>
 
