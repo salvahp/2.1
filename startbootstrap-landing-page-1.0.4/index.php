@@ -43,7 +43,11 @@
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
-    	<div id="video" class="player" data-property="{videoURL:'ZewSU6Kg1go',containment:'#intro-header', showControls:false, autoPlay:true, loop:true, mute:true, startAt:58, opacity:1, optimizeDisplay: true, addRaster:false, quality:'default'}">Henter video...</div>
+    	<!--  skal kigges på af jarne -->
+        <section class="carsten">
+        <div id="video" class="player" data-property="{videoURL:'ZewSU6Kg1go',containment:'#carsten', showControls:false, autoPlay:true, loop:true, mute:true, startAt:58, opacity:1, optimizeDisplay: true, addRaster:false, quality:'default'}">Henter video...</div>
+        
+        
         <div class="container">
 
             <div class="row">
@@ -67,7 +71,7 @@
 
         </div>
         <!-- /.container -->
-
+	</section>
     </div>
     <!-- /.intro-header -->
 
@@ -175,14 +179,14 @@
     </div>
     <!-- /.banner -->
 
-<<<<<<< HEAD
-	<?php include "footer.php";?>
-    
-=======
-    <!-- Footer -->
-<?php include "startbootstrap-landing-page-1.0.4/footer.php";?>
 
->>>>>>> origin/master
+	
+    
+
+    <!-- Footer -->
+
+<?php include "footer.php";?>
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
