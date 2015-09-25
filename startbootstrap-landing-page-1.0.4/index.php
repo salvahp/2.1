@@ -179,21 +179,14 @@
     </div>
     <!-- /.banner -->
 
-<<<<<<< HEAD
 
-	
-=======
-	<?php include "footer.php";?>
->>>>>>> origin/master
-    
 
     <!-- Footer -->
 
-<<<<<<< HEAD
+
 <?php include "footer.php";?>
 
-=======
->>>>>>> origin/master
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
