@@ -33,37 +33,8 @@
 
 <body>
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
-        <div class="container topnav">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand topnav" href="#">Langt logo</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                  <li> 
-                  		<a href="#about">Bliv medlem </a>
-                  </li>
-                  <li>
-                        <a href="#services">Events</a>
-                    </li>
-                    <li>
-                        <a href="#contact">Medlemmer</a>
-                    </li>
-                    <li>
-                        <a href="#contact">Om Aarhus Jazzklub</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
+<?php include "navbar.php";?>
+ 
         </div>
         <!-- /.container -->
     </nav>
@@ -175,18 +146,24 @@
 
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Connect to Start Bootstrap:</h2>
+                    <h2>Start din jazzrejse her:</h2>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
                         <li>
-                            <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                            <a href="https://www.facebook.com/aarhusjazzklub?fref=ts" class="btn btn-default btn-lg">
+                            <i class="fa fa-twitter fa-fw"></i> 
+                            <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
+                            <i class="fa fa-github fa-fw"></i> 
+                            <span class="network-name">Events</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            <a href="#" class="btn btn-default btn-lg">
+                            <i class="fa fa-linkedin fa-fw"></i> 
+                            <span class="network-name">Bliv medlem</span></a>
                         </li>
                     </ul>
                 </div>
@@ -198,7 +175,7 @@
     </div>
     <!-- /.banner -->
 
-	<?php include "startbootstrap-landing-page-1.0.4/footer.php";?>
+	<?php include "footer.php";?>
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
