@@ -28,7 +28,7 @@
                         <a href="medlemmer.php">Medlemmer</a>
                     </li>
                     <li>
-                        <a href="omafk.php">Om Aarhus Jazzklub</a>
+                        <a href="omajk.php">Om Aarhus Jazzklub</a>
                     </li>
                 </ul>
             </div>
