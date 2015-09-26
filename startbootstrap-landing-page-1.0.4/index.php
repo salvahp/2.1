@@ -35,9 +35,6 @@
 
 <?php include "navbar.php";?>
  
-        </div>
-        <!-- /.container -->
-    </nav>
 
 
     <!-- Header -->

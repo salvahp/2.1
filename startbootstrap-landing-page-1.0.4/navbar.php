@@ -33,5 +33,8 @@
                 </ul>
             </div>
 
+        </div>
+        <!-- /.container -->
+    </nav>
 
             <!-- /.navbar-collapse -->
