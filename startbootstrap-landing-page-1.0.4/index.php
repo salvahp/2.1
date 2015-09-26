@@ -40,9 +40,7 @@
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
-    	<!--  skal kigges på af jarne -->
-        <section class="carsten">
-        <div id="video" class="player" data-property="{videoURL:'ZewSU6Kg1go',containment:'#carsten', showControls:false, autoPlay:true, loop:true, mute:true, startAt:58, opacity:1, optimizeDisplay: true, addRaster:false, quality:'default'}">Henter video...</div>
+    
         
         
         <div class="container">
@@ -190,7 +188,7 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <!-- video  -->
-    <script type="text/javascript" src="js/jquery.mb.YTPlayer.src.js"></script>
+   
 	<script src="js/script.js"></script>
     
 </body>
