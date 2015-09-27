@@ -52,9 +52,9 @@
                       <h3>"Vi swinger traditionelt" </h3>
                       <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
-                          <li> <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"> <span class="network-name">Facebook</span></a> </li>
+                          <li> <a href="https://www.facebook.com/aarhusjazzklub" class="btn btn-default btn-lg"> <span class="network-name">Facebook</span></a> </li>
                           <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"> <span class="network-name">Events</span></a>
+                                <a href="#" class="btn btn-default btn-lg"> <span class="network-name">Events</span></a>
                             </li>
                             <li>
                                 <a href="#" class="btn btn-default btn-lg"> <span class="network-name">Bliv medlem</span></a>
@@ -106,7 +106,29 @@
                     <p class="lead">Her kan du få et overblik over hvilke events, priser og tidspunkter der er relevante for lige netop dig! tjek det ud! </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
+                    
+                    <!-- kalender -->
+                    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+					<script src="js/script.js" type="text/javascript"></script>
+                    
+                    <script type="text/javascript">
+                       jQuery(function ($) {
+                           $('#eventlist').gCalReader({
+                             calendarId:'b3t0ogimlgca5h3qa8f2a1jj1g@group.calendar.google.com',
+                             apiKey:'AIzaSyAVhU0GdCZQidylxz7whIln82rWtZ4cIDQ',
+                             sortDescending: false
+                            });
+                         });
+                    </script>
+                
+                    <ul id="eventlist" class="list-group">
+                        <li class="list-group-item active">De næste kommende begivenheder</li>
+                    </ul>
+
+                                    
+                    <!-- ------Kalender slut------ -->
+                    
+                
                 </div>
             </div>
 
@@ -187,9 +209,12 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    
     <!-- video  -->
    <script src="js/jquery.mb.YTPlayer.js"></script>
 	<script src="js/script.js"></script>
+    
+
     
 </body>
 
