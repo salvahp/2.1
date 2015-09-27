@@ -40,7 +40,7 @@
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
-    <section id="video-sec"  class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=ZewSU6Kg1go&feature=youtu.be',containment:'self',autoPlay:true, mute:true, startAt:0, opacity:1,mute: true,showControls:false}" >
+    
         
         
         <div class="container">
@@ -188,7 +188,7 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <!-- video  -->
-   <script src="js/jquery.mb.YTPlayer.js"></script>
+   
 	<script src="js/script.js"></script>
     
 </body>
