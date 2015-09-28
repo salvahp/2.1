@@ -51,15 +51,16 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-lg-6 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <!-- Månedskalender - google calendar -->
+                    	<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=350&amp;wkst=2&amp;hl=da&amp;bgcolor=%23FFFFFF&amp;src=b3t0ogimlgca5h3qa8f2a1jj1g%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Europe%2FAmsterdam" style=" border:solid 1px #777 " width="550" height="350" frameborder="0" scrolling="no"></iframe>
+                    
+                    <!-- /slut Månedskalender -->
+                    
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
-                </div>
+
             </div>
 
         </div>
@@ -72,15 +73,16 @@
 
         <div class="container">
 
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
+            <div class="row" >
+                <div class="col-lg-4 col-sm-push-4  col-sm-6">
+                    
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">Martinis</h2>
+                    <p class="lead">Den dejlige sangerinde Kira Martini var én af de store overraskelser på programmet i 2014. Nu er hun tilbage med sit stjernespækkede orkester, og vi glæder os til at præsentere dette spændende samarbejde på tværs af generationer for et endnu større publikum. 
+
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
+                <div class="col-lg-4 col-lg-offset-2 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/Kira_Martini.jpg" alt="">
                 </div>
             </div>
 
