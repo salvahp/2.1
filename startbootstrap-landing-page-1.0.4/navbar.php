@@ -9,14 +9,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="index.php">Langt logo</a>
+                
+               
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-           
+     
            <div class="dropdown" 
            		type="button"
            		id="bs-example-navbar-collapse-1">
-                
+                      <a href="index.php" ><img src="img/aarhusjazzklub.png" width="200" height="50"></a>
                 <ul class="nav navbar-nav navbar-right">
                   <li> 
                   		<a href="blivmedlem.php">Bliv medlem </a>

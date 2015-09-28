@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>  					Aarhus Jazzklub					</title>
+    <title>Aarhus Jazzklub</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -54,10 +54,10 @@
                         <ul class="list-inline intro-social-buttons">
                           <li> <a href="https://www.facebook.com/aarhusjazzklub" class="btn btn-default btn-lg"> <span class="network-name">Facebook</span></a> </li>
                           <li>
-                                <a href="#" class="btn btn-default btn-lg"> <span class="network-name">Events</span></a>
+                                <a href="events.php" class="btn btn-default btn-lg"> <span class="network-name">Events</span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn btn-default btn-lg"> <span class="network-name">Bliv medlem</span></a>
+                                <a href="blivmedlem.php" class="btn btn-default btn-lg"> <span class="network-name">Bliv medlem</span></a>
                             </li>
                         </ul>
                     </div>
@@ -102,7 +102,7 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Kalender & <br>Events</h2>
+                    <h2 class="section-heading">Kalender & Events</h2>
                     <p class="lead">Her kan du få et overblik over hvilke events, priser og tidspunkter der er relevante for lige netop dig! tjek det ud! </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -172,18 +172,15 @@
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
                         <li>
-                            <a href="https://www.facebook.com/aarhusjazzklub?fref=ts" class="btn btn-default btn-lg">
-                            <i class="fa fa-twitter fa-fw"></i> 
+                            <a href="https://www.facebook.com/aarhusjazzklub" class="btn btn-default btn-lg">
                             <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
-                            <i class="fa fa-github fa-fw"></i> 
+                            <a href="events.php" class="btn btn-default btn-lg">
                             <span class="network-name">Events</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">
-                            <i class="fa fa-linkedin fa-fw"></i> 
+                            <a href="blivmedlem.php" class="btn btn-default btn-lg">
                             <span class="network-name">Bliv medlem</span></a>
                         </li>
                     </ul>

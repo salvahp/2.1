@@ -10,7 +10,7 @@
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#about">Om Aarhus Jazzklub</a>
+                            <a href="omajk.php">Om Aarhus Jazzklub</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
