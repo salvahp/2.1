@@ -14,7 +14,7 @@ $(function () {
         apiKey: 'Public_API_Key',
         dateFormat: 'LongDate',
         errorMsg: 'No events in calendar',
-        maxEvents: 2,
+        maxEvents: 1,
         futureEventsOnly: true,
         sortDescending: true
       },
