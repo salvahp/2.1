@@ -30,9 +30,7 @@
     <![endif]-->
 
 </head>
-<embed src="Jamiroquai - Cnned Heat.mp3" autostart="true" loop="true"
-width="2" height="0">
-</embed>
+
 <body>
 
 <?php include "navbar.php";?>
