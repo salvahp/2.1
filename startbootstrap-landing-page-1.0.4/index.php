@@ -84,7 +84,7 @@
                     <p class="lead">Aarhus Jazzklub er en klub for dig som elsker jazz. Vi afholder spændende musikarrangementer som alle er velkomne til. Kom og hver med! </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                    <img class="img-responsive" src="img/ajk_logo_positiv.png" alt="">
                 </div>
             </div>
 
