@@ -1,6 +1,8 @@
 
 		
-<?php include "header.php";?>
+<?php 
+$title ="Aarhus Jazzklub - Bliv medlem";
+include "header.php";?>
  
         </div>
         <!-- /.container -->

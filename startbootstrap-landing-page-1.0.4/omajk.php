@@ -1,5 +1,7 @@
 
-<?php include "header.php";?>
+<?php 
+$title ="Aarhus Jazzklub - Om Århus Jazzklub";
+include "header.php";?>
  
         </div>
         <!-- /.container -->
