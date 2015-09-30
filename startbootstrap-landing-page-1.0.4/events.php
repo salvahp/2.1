@@ -21,9 +21,19 @@ include "header.php";?>
    <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/martinis_700x400.png" alt="">
-                </a>
+                
+				<div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 3. oktober</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+					<a href="#">
+						<img class="img-responsive" src="img/martinis_700x400.png" alt="">
+					</a>
+				</div>	
+					
+					
+				
                 <h3>
                     <a href="#">Martinis </a>
                 </h3>
