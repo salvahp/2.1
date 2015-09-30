@@ -26,7 +26,7 @@ include "header.php";?>
                     <p class="lead">Aarhus Jazzklub er en medlemsbaseret forening, som bestræber sig på at præsentere et bredt og varieret musikprogram af høj kvalitet. Vi afholder spændende musikarrangementer stortset hver lørdag på pubben "Hos Anders" som ligger på Telefontorvet ved Busgaden i aarhus C. Vores mål er at støtte og bevare den traditionelle Jazz-musik I Aarhus, med toner af - New Orleansjazz, ragtime, swing, dixieland, revivaljazz, gipsyjazz, blues, gospel og meget meget mere.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                    <img class="img-responsive" src="img/ajk_logo_positiv.png" alt="">
                 </div>
             </div>
 
