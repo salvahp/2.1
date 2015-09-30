@@ -19,21 +19,19 @@ include "header.php";?>
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-lg-6 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Bliv medlem</h2>
                     <p class="lead">Som medlem af Aarhus Jazzklub opnår du en række kontante fordele:<br>
-<ul class="list-group">
-	<li>Kontingent for et år er kr. 300,-</li>
-	<li>Vi afholder vinterjazz fra sidst i september til maj, ca. 25 arrangementer</li>
-	<li>Vi afholder 8 arrangementer i Aarhus Jazz Festival</li>
-	<li>Du modtager vores jazzavis to gange årligt i postkassen</li>
-	<li>Medlemsfordele: Du kommer ind i Randers-Silkeborg-Grenå-Horsens og Jazz selskabet, Århus til medlemspris.</li>
-</ul>
-</p>
+						Kontingent for et år er kr. 300,-<br>
+						Vi afholder vinterjazz fra sidst i september til maj, ca. 25 arrangementer.<br>
+						Vi afholder 8 arrangementer i Aarhus Jazz Festival.<br>
+						Du modtager vores jazzavis to gange årligt i postkassen<br>
+						Medlemsfordele: Du kommer ind i Randers-Silkeborg-Grenå-Horsens og Jazz selskabet, Århus til medlemspris.
+					</p>
                 </div>
-                <div class="col-lg-7 col-sm-6">
+                <div class="col-lg-6 col-sm-6">
 					<iframe width="600" height="330" 
 						src="https://www.youtube.com/embed/ZewSU6Kg1go" frameborder="0" allowfullscreen>
 					</iframe>
