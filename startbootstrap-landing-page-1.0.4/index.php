@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                      <h1>Aarhus Jazzklub</h1>
+                      <h1>AARHUS JAZZKLUB</h1>
                       <h3>"Vi swinger traditionelt" </h3>
                       <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
