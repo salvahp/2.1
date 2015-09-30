@@ -139,8 +139,10 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../i:;mg/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+	background-image:url(../img/footer_ajk.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover; 
 }
 
 .banner h2 {

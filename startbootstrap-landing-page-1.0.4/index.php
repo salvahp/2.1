@@ -130,8 +130,8 @@
 	<a  name="contact"></a>
     <div class="banner">
 
-        <div class="container">
-
+        <div class="container" >
+				
             <div class="row">
                 <div class="col-lg-6">
                     <h2>Start din jazzrejse her:</h2>
