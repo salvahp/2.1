@@ -41,9 +41,15 @@ include "header.php";?>
 Kira Martini: vokal. Mads Søndergaard: piano. Peter Marott: trompet. Elith ”Nulle” Nykjær: klarinet. Ole ”Fessor” Lindgren: trombone. Joel Illerhag: bas. Morten Ærø: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/madstolling_700x400.png" alt="">
-                </a>
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 10. oktober</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/madstolling_700x400.png" alt="">
+                		</a>
+					</div>
                 <h3>
                     <a href="#">Mads Tolling</a>
                 </h3>
@@ -51,9 +57,15 @@ Kira Martini: vokal. Mads Søndergaard: piano. Peter Marott: trompet. Elith ”N
 Mads Tolling: violin. Jacob Fischer: guitar. Kasper Tagen: kontrabas. Snorre Kirk: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/paulharrison_700x400.png" alt="">
-                </a>
+			<div class="thumbnail">
+				<div class="caption" style="display:none">
+					<h2>Lørdag d. 17. oktober</h2>
+					<p>13:00 - 16:00</p>
+				</div>
+					<a href="#">
+						<img class="img-responsive" src="img/paulharrison_700x400.png" alt="">
+                	</a>
+				</div>
                 <h3>
                     <a href="#">Paul Harrison</a>
                 </h3>
@@ -65,9 +77,15 @@ Paul Harrison: klarinet/sopransax/altsax. Niklas Carlsson: trombone/voc. Sean Mo
 	 <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/peteallen_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 24. oktober</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/peteallen_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">Pete Allen</a>
                 </h3>
@@ -75,9 +93,15 @@ Paul Harrison: klarinet/sopransax/altsax. Niklas Carlsson: trombone/voc. Sean Mo
 Pete Allen: klarinet. Erik Sørensen: sax. Tom Nissen: banjo. Jens Holgersen: kontrabas. Jazper Lindenhoff: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/riverjazz_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 31. oktober</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/riverjazz_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">River Jazz</a>
                 </h3>
@@ -85,9 +109,15 @@ Pete Allen: klarinet. Erik Sørensen: sax. Tom Nissen: banjo. Jens Holgersen: ko
 Torben Lassen: trompet, mundharpe, vokal. Karen Sørensen: klaver. Allan Bjerregaard: trombone, vokal. Filt Kristensen: tenorsax, klarinet. Jørgen Nielsen: bas. Nikolai Seidelin Banke: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/mandipira_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 7. november</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/mandipira_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">Miriam </a>
                 </h3>
@@ -99,9 +129,15 @@ Miriam Mandipira: vokal. Jens Klüver: sax. Uffe Steen: guitar. Kjeld Lauritsen:
          <!-- Projects Row -->
         <div class="row">
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/vestrejazz_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 14. november</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/vestrejazz_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">Vestre Jazzværk</a>
                 </h3>
@@ -109,9 +145,15 @@ Miriam Mandipira: vokal. Jens Klüver: sax. Uffe Steen: guitar. Kjeld Lauritsen:
 Aage Jespersen: trompet. Poul Schmidt basun, vokal. Ole Weibel klarinet, vokal. Tom Nissen: banjo, vokal. Poul Erik Philipsen: bas. Hans Rømer: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/maxlagers_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 21. november</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/maxlagers_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">Max Lagers</a>
                 </h3>
@@ -119,9 +161,15 @@ Aage Jespersen: trompet. Poul Schmidt basun, vokal. Ole Weibel klarinet, vokal. 
 Bosse Ericsson: trompet, cornet. Anders Ekström: klarinet, sax. Roland Ödborg: trombone. Anders Rylander: banjo. Ulf Albrektsson: piano. Ored Borgsund: bas. Lennart Carlsson: trommer.</p>
             </div>
             <div class="col-md-4 portfolio-item">
-                <a href="#">
-                    <img class="img-responsive" src="img/alltimejazzband_700x400.png" alt="">
+                <div class="thumbnail">
+					<div class="caption" style="display:none">
+						<h2>Lørdag d. 28. november</h2>
+						<p>13:00 - 16:00</p>
+					</div>
+						<a href="#">
+                    		<img class="img-responsive" src="img/alltimejazzband_700x400.png" alt="">
                 </a>
+				</div>
                 <h3>
                     <a href="#">All Time Jazzband</a>
                 </h3>
