@@ -33,9 +33,11 @@ include "header.php";?>
 </ul>
 </p>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
-                </div>
+                <div class="col-lg-7 col-sm-6">
+					<iframe width="600" height="330" 
+						src="https://www.youtube.com/embed/ZewSU6Kg1go" frameborder="0" allowfullscreen>
+					</iframe>
+				</div>
             </div>
 
         </div>
