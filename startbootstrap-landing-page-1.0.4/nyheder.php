@@ -67,8 +67,9 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Bliv medlem<br>det er sjooooovt</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                    <h2 class="section-heading">Boogie woogie battle</h2>
+                    <p class="lead">Den unge danske pianist Lasse E Jensen er inspireret af de gamle mestre fra USA som Albert Ammons og Pete Johnson. Men det var efter et møde med den tyske, internationale anerkendte boogie woogiemester Axel Zwingenberger i 2007,
+hvor denne spillede koncerter med Kim Nedergaard (Kims Bacon), at hans karriere for alvor tog fart. Lasse har optrådt på mange europædiske festivaler for boogie woogiepiano. Denne lørdags koncert er et møde ( duel ) mellem vores egen klaverbokser og bluessanger Kim Nedergaard og den unge nye stjerne på boogie - himlen. Rytmegruppen består af: Hanse Jensen, saxofon - Morten Elbek, guitar, saxofon - Jørgen Nielsen, bas og Jan "Chang" Østergaard, trommer.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/bwbattle_700x400.png" alt="">
