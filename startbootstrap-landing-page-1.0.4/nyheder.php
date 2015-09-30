@@ -27,7 +27,7 @@ include "header.php";?>
                     <p class="lead">Oktober 2015 udkommer det næste katalog fra Aarhus Jazzklub. Denne gang byder vi spændende artikler om forskellige musikere, nyt i Jazz universet og nyeste tiltag i foreningen. <br>Læs mere ...  </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                    <img class="img-responsive" src="img/katalog_700x400.png" alt="">
                 </div>
             </div>
 
