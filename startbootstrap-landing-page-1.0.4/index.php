@@ -47,7 +47,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Om Aarhus Jazzklub</h2>
+                    <h2 class="section-heading">Om <br>Aarhus Jazzklub</h2>
                     <p class="lead">Aarhus Jazzklub er en medlemsbaseret forening, som bestræber sig på at præsentere et bredt og varieret musikprogram af høj kvalitet. Vi afholder spændende musikarrangementer stortset hver lørdag på pubben "Hos Anders" som ligger på Telefontorvet ved Busgaden i aarhus C. Vores mål er at støtte og bevare den traditionelle Jazz-musik I Aarhus, med toner af - New Orleansjazz, ragtime, swing, dixieland, revivaljazz, gipsyjazz, blues, gospel og meget meget mere. </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -69,7 +69,7 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Kalender & Events</h2>
+                    <h2 class="section-heading">Kalender & <br>Events</h2>
                     <p class="lead">I vores kalender finder du en oversigt over kommende arrangementer og hvilke musikere du har mulighed for at opleve i forbindelse med dem. Under "Events" kan du se billeder af de forskellige musikere samt læse en mindre beskrivelse og datoen for deres besøg i Jazzklubben. </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -113,7 +113,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Bliv medlem<br>det er sjooooovt</h2>
+                    <h2 class="section-heading">Bliv medlem<br></h2>
                     <p class="lead"> Bliver du medlem i Aarhus jazzklub er du sikret en fast lav pris ved deltagelse i arrangementer. Du skal aldrig være bekymret for at misse et event, da vi vil holde dig opdateret på dette område.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
