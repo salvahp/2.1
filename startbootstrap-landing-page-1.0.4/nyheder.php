@@ -23,7 +23,7 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Frokost Jazz, 2. halvår 2015</h2>
+                    <h2 class="section-heading">FROKOST JAZZ, 2. HALVÅR 2015</h2>
                     <p class="lead">Oktober 2015 udkommer det næste katalog fra Aarhus Jazzklub. Denne gang byder vi spændende artikler om forskellige musikere, nyt i Jazz universet og nyeste tiltag i foreningen. <br>Læs mere ...  </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -67,7 +67,7 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Boogie woogie battle</h2>
+                    <h2 class="section-heading">BOOGIE WOOGIE BATTLE</h2>
                     <p class="lead">Den unge danske pianist Lasse E Jensen er inspireret af de gamle mestre fra USA som Albert Ammons og Pete Johnson. Men det var efter et møde med den tyske, internationale anerkendte boogie woogiemester Axel Zwingenberger i 2007,
 hvor denne spillede koncerter med Kim Nedergaard (Kims Bacon), at hans karriere for alvor tog fart.</p>
                 </div>

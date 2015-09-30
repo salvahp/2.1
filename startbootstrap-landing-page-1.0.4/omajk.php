@@ -22,8 +22,8 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">OM AARHUS JAZZKLUB</h2>
+                    <p class="lead">Aarhus Jazzklub er en medlemsbaseret forening, som bestræber sig på at præsentere et bredt og varieret musikprogram af høj kvalitet. Vi afholder spændende musikarrangementer stortset hver lørdag på pubben "Hos Anders" som ligger på Telefontorvet ved Busgaden i aarhus C. Vores mål er at støtte og bevare den traditionelle Jazz-musik I Aarhus, med toner af - New Orleansjazz, ragtime, swing, dixieland, revivaljazz, gipsyjazz, blues, gospel og meget meget mere.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/ipad.png" alt="">
