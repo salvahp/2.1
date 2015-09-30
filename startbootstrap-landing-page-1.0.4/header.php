@@ -62,7 +62,7 @@
                         <a href="events.php">Events</a>
                     </li>
                     <li>
-                        <a href="medlemmer.php">Medlemmer</a>
+                        <a href="nyheder.php">Nyheder</a>
                     </li>
                     <li>
                         <a href="omajk.php">Om Aarhus Jazzklub</a>
