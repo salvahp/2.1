@@ -70,7 +70,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Kalender & Events</h2>
-                    <p class="lead">Her kan du få et overblik over hvilke events, priser og tidspunkter der er relevante for lige netop dig! tjek det ud! </p>
+                    <p class="lead">I vores kalender finder du en oversigt over kommende arrangementer og hvilke musikere du har mulighed for at opleve i forbindelse med dem. Under "Events" kan du se billeder af de forskellige musikere samt læse en mindre beskrivelse og datoen for deres besøg i Jazzklubben. </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     
