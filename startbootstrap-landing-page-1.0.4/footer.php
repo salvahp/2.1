@@ -1,3 +1,4 @@
+   <!--banner -->
     <a  name="contact"></a>
     <div class="banner">
 
@@ -15,12 +16,12 @@
                             <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
+                            <a href="events.php" class="btn btn-default btn-lg">
                            
                             <span class="network-name">Events</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg">
+                            <a href="blivmedlem.php" class="btn btn-default btn-lg">
                            
                             <span class="network-name">Bliv medlem</span></a>
                         </li>
