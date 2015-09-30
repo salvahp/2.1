@@ -94,17 +94,17 @@ include "header.php";?>
                     <ul class="list-inline banner-social-buttons">
                         <li>
                             <a href="https://www.facebook.com/aarhusjazzklub?fref=ts" class="btn btn-default btn-lg">
-                            <i class="fa fa-twitter fa-fw"></i> 
+                           
                             <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
                             <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
-                            <i class="fa fa-github fa-fw"></i> 
+                           
                             <span class="network-name">Events</span></a>
                         </li>
                         <li>
                             <a href="#" class="btn btn-default btn-lg">
-                            <i class="fa fa-linkedin fa-fw"></i> 
+                           
                             <span class="network-name">Bliv medlem</span></a>
                         </li>
                     </ul>
