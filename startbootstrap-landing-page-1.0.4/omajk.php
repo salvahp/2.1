@@ -45,7 +45,7 @@ include "header.php";?>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
 
-                    <h2 class="section-heading">Bestyrrelsen</h2>
+                    <h2 class="section-heading">BESTYRRELSEN</h2>
                     <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
 
                    
@@ -70,7 +70,7 @@ include "header.php";?>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
 
-                    <h2 class="section-heading">Kontakt</h2>
+                    <h2 class="section-heading">KONTAKT</h2>
                     <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
 
   
