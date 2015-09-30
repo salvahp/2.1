@@ -45,8 +45,8 @@ include "header.php";?>
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">HOT'N'SPICY</h2>
+                    <p class="lead">Se alle billederne fra den festlige eftermiddag, hvor Kenneth Langegaard spillede på violin. Ved siden af kunne man høre Jørgen Nørgaard på bas og Jesper Klint på guitar. Det var en glædes fest, og hvis du vil mindes tilbage til denne skønne eftermiddag, kan du se alle billederne her. Vi glæder os til at se jer alle til det næste store arrangement.</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/hotnspicy_700x400.png" alt="">
