@@ -66,25 +66,8 @@ include "header.php";?>
 					</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->
-
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <!-- kontakt form -->
+                    
+					<!-- kontakt form -->
 						<div style="overflow:hidden;width:490px;" class="pageContentSection cmsContentStandardContact_formWrap">
 								  	
 								  	
@@ -161,6 +144,8 @@ include "header.php";?>
 							}); </script></form>
 							</div>		
 					<!-- /kontakt form -->
+									
+					
                 </div>
             </div>
 
@@ -168,7 +153,9 @@ include "header.php";?>
         <!-- /.container -->
 
     </div>
-    <!-- /.content-section-a -->
+    <!-- /.content-section-b -->
+
+
 
     <!-- Footer + banner -->
 
