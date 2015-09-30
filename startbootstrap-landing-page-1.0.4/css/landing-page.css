@@ -74,9 +74,15 @@ h6 {
 	font-family:ralewa;
 }
 
+#eventlist {
+	border: 1px #000000;
+
+}
+
 .list-group {
 	list-style:none;
-}
+	}
+
 
 .list-group li{
 	padding-left:1em;
@@ -139,10 +145,8 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-	background-image:url(../img/footer_ajk.png);
-	background-position:center;
-	background-repeat:no-repeat;
-	background-size:cover; 
+    background: url(../i:;mg/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 .banner h2 {

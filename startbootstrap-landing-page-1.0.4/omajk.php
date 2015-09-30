@@ -22,7 +22,7 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Noget om Aarhus jazzklub</h2>
+                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
                     <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -66,7 +66,7 @@ include "header.php";?>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading" id="kontakt">Kontakt<br>det er sjooooovt</h2>
+                    <h2 class="section-heading">Bliv medlem<br>det er sjooooovt</h2>
                     <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -93,17 +93,17 @@ include "header.php";?>
                     <ul class="list-inline banner-social-buttons">
                         <li>
                             <a href="https://www.facebook.com/aarhusjazzklub?fref=ts" class="btn btn-default btn-lg">
-                           
+                            <i class="fa fa-twitter fa-fw"></i> 
                             <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
                             <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
-                            
+                            <i class="fa fa-github fa-fw"></i> 
                             <span class="network-name">Events</span></a>
                         </li>
                         <li>
                             <a href="#" class="btn btn-default btn-lg">
-                           
+                            <i class="fa fa-linkedin fa-fw"></i> 
                             <span class="network-name">Bliv medlem</span></a>
                         </li>
                     </ul>
