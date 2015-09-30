@@ -56,7 +56,7 @@
                       <a href="index.php" ><img src="img/aarhusjazzklub.png" width="200" height="50"></a>
                 <ul class="nav navbar-nav navbar-right">
                   <li> 
-                  		<a href="blivmedlem.php">Bliv medlem </a>
+                  		<a href="blivmedlem.php">Bliv medlem</a>
                   </li>
                   <li>
                         <a href="events.php">Events</a>
