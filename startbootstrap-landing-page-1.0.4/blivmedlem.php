@@ -69,7 +69,12 @@ include "header.php";?>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     
-					<!-- kontakt form -->
+			
+			
+			<!-- kontakt form -->
+			
+			
+			
 						<div style="overflow:hidden;width:490px;" class="pageContentSection cmsContentStandardContact_formWrap">
 								  	
 								  	
