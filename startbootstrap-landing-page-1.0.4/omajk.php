@@ -46,12 +46,16 @@ include "header.php";?>
                     <div class="clearfix"></div>
 
                     <h2 class="section-heading">BESTYRELSEN</h2>
+<<<<<<< HEAD
                     <p class="lead">Bestyrelsen i Aarhus Jazzklub består af 5 bestyrelsesmedlemmer samt 2 suppleanter.  </p>
+=======
+                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+>>>>>>> origin/master
 
                    
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
+                    <img class="img-responsive" src="img/bestyrelsen_ajk.png" alt="">
                 </div>
             </div>
 
