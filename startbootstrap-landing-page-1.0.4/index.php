@@ -15,8 +15,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                      <h1>AARHUS JAZZKLUB</h1>
-                      <h3>"Vi swinger traditionelt" </h3>
+                    <img  src="img/ajk_logo_negativ.png" alt="">
                       <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li> <a href="https://www.facebook.com/aarhusjazzklub" class="btn btn-default btn-lg"> <span class="network-name">Facebook</span></a> </li>
