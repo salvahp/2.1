@@ -92,7 +92,7 @@
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     
                     <!-- kalender -->
-                    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"> 				   					</script>
 					<script src="js/script.js" type="text/javascript"></script>
                     
                     <script type="text/javascript">
