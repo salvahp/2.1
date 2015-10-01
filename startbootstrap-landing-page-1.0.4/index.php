@@ -29,20 +29,22 @@
                     </div>
                 </div>
             </div>
- 
+  
         </div>
         <!-- /.container -->
-	
+	 
         </section>
+      
     </div>
     <!-- /.intro-header -->
 
     <!-- Page Content -->
- 
+
 	<a  name="services"></a>
     <div class="content-section-a">
 		 
      <div class="container">
+     
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
