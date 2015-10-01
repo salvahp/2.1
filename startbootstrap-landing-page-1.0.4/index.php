@@ -10,12 +10,11 @@
     <section id="video-sec"  class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=ZewSU6Kg1go&feature=youtu.be',containment:'self',autoPlay:true, mute:true, startAt:0, opacity:1,mute: true,showControls:false}" >
         
         
-        <div class="container">
 
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="intro-message">
-                    <img  src="img/ajk_logo_negativ.png" alt="">
+<!--                    <div class="intro-message"> -->
+                    <img class="top-padding-ekstra" src="img/ajk_logo_negativ.png" alt="">
                       <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                           <li> <a href="https://www.facebook.com/aarhusjazzklub" class="btn btn-default btn-lg"> <span class="network-name">Facebook</span></a> </li>
@@ -26,13 +25,11 @@
                                 <a href="blivmedlem.php" class="btn btn-default btn-lg"> <span class="network-name">Bliv medlem</span></a>
                             </li>
                         </ul>
-                    </div>
+<!--                    </div>-->
                 </div>
             </div>
   
-        </div>
-        <!-- /.container -->
-	 
+        	 
         </section>
       
     </div>
@@ -41,7 +38,25 @@
     <!-- Page Content -->
 
 	<a  name="services"></a>
-    <div class="content-section-a">
+    
+	
+	<!-- pil indsats -->
+		
+		 
+     
+                <div class="col-lg-12 col-sm-6 ">
+                    
+                    <img class="img-responsive center-block top-padding-ekstra" height="40px" width="80px" src="img/ajk_pil.png" alt="">
+                    
+                    
+                </div>
+
+        
+    
+	<!-- pil indsats slut -->
+	
+	
+	<div class="content-section-a">
 		 
      <div class="container">
      
