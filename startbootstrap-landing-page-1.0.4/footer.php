@@ -55,9 +55,11 @@
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; EAAA 2015. All Rights Reserved</p>
                 </div>
-                <embed src="Cab Calloway - Happy Feet 1930.mp3" autostart="true" loop="true"
-width="2" height="0">
-</embed>
+          <audio id="jazzy" autoplay="autoplay">
+    <source src="Cab Calloway - Happy Feet 1930.mp3" type="audio/mp3">
+</audio>
+
+
             </div>
         </div>
     </footer>

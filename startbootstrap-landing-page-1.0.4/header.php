@@ -69,6 +69,9 @@
                     <li>
                         <a href="omajk.php">Om Aarhus Jazzklub</a>
                     </li>
+                    <li>
+                        <img src="img/web_mute.png" onclick="document.getElementById('jazzy').pause()" />
+                    </li>
                 </ul>
             </div>
 
