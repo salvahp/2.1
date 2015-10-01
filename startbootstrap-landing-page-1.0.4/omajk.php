@@ -46,11 +46,10 @@ include "header.php";?>
                     <div class="clearfix"></div>
 
                     <h2 class="section-heading">BESTYRELSEN</h2>
-<<<<<<< HEAD
-                    <p class="lead">Bestyrelsen i Aarhus Jazzklub består af 5 bestyrelsesmedlemmer samt 2 suppleanter.  </p>
-=======
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
->>>>>>> origin/master
+
+                    <p class="lead">Bestyrelsen i Aarhus Jazzklub består af 4 bestyrelsesmedlemmer samt 2 suppleanter. Bestyrelsen afholder generalforsamlinger som medlemmer i klubben er velkomne til at deltage i. På møderne kan der bl.a. kommes med forslag til Jazzbands der skal bookes til kommende events.  </p>
+
+                    
 
                    
                 </div>
@@ -75,7 +74,7 @@ include "header.php";?>
                     <div class="clearfix"></div>
 
                     <h2 class="section-heading">KONTAKT</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                    <p class="lead">Aarhus Jazzklub holder til på beværtningen "Hos Anders" hvor vi hver lørdag afholder vores Jazz arrangementer. "Hos Anders" er en hyggelig indrettet pub som ligger på telefontorvet, nærmere Frederiksgade 25 tæt på Busgaden i Aarhus. Kig endeligt forbi til lørdags Jazz.</p>
 
   
                 </div>
