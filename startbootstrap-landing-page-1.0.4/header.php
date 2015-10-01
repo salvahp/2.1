@@ -12,6 +12,8 @@
 	<link rel="icon" type="image/png" href="favicon.png">
 
     <title><?php echo $title; ?></title>
+	
+	<meta name="robots" content="noindex" />
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
