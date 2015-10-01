@@ -11,7 +11,7 @@ include "header.php";?>
 <!-- Page Header -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header"> Events 
+                <h1 class="page-header">  
                     <small></small>
                 </h1>
             </div>

@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="keywords" content="Aarhus, Jazzklub, Jazz">
 	
 	<link rel="icon" type="image/png" href="favicon.png">
 
